@@ -14,5 +14,5 @@ License: ALL
 Role: ALL
 Link: https://drive.google.com/file/d/1-9NZu1E58CC2n3l2r1bDMtY6V7-I92Ru/view?usp=sharing
 Bug started": @ideear
-Bug reproduced:
-But didn't reproduce:
+Bug reproduced: 0
+But didn't reproduce: 0
